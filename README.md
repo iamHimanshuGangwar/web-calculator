@@ -9,7 +9,7 @@ A simple and stylish calculator built using HTML, CSS, and vanilla JavaScript.
 - Clear and delete functionality
 - Error handling for invalid expressions
 
-## Demo
+## Screenshot
 <img width="1714" height="1098" alt="Image" src="https://github.com/user-attachments/assets/3b0cbb3e-9365-4ecb-ab5a-5ea8e5607944" />
 
 ## Usage
