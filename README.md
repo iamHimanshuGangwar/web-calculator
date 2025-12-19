@@ -25,4 +25,3 @@ A simple and stylish calculator built using HTML, CSS, and vanilla JavaScript.
 - `index.html` – Main HTML file
 - `style.css` – Calculator styles
 - `script.js` – Calculator logic
-- `README.md` – Project documentation
